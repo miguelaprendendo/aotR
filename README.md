@@ -1,4 +1,3 @@
-local Lib = loadstring(game:HttGet("https://raw.githubuser.com/7yhx/kwargs_Ui_Library/main/source.lua"))()
 
 -- Importar a lib NPCFarm
  local NPCFarm = require(game.ReplicatedStorage:WaitForChild("NPCFarm"
